@@ -17,6 +17,8 @@ chrome.webRequest.onHeadersReceived.addListener(
       '*://www.linkedin.com/*',
       '*://us.linkedin.com/*',
       '*://ca.linkedin.com/*',
+      "*://pl.linkedin.com/*",
+      "*://my.linkedin.com/*",
       '*://twitter.com/*',
       '*://www.twitter.com/*'
     ],
